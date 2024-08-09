@@ -1,11 +1,9 @@
 Control software
 ====
-Wall Follower
-![image](https://github.com/user-attachments/assets/d0c14c4f-dbd5-4cf7-82e8-654fbc78fa2c)
 Movement
-![image](https://github.com/user-attachments/assets/8998bb01-214b-4d43-8f4a-17d4f300464d)
+![image](https://github.com/user-attachments/assets/5f6cd97c-c2e0-408c-8f0e-be0b3950c70d)
 Ultrasonic sensor
-![image](https://github.com/user-attachments/assets/879f300b-677e-4ce4-9ee2-3e29858ab94b)
+![image](https://github.com/user-attachments/assets/03eee1e6-d20a-4a7d-a7e9-0dd381531091)
 
 This directory must contain code for control software which is used by the vehicle to participate in the competition and which was developed by the participants.
 
