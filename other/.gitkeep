@@ -1,0 +1,45 @@
+Engineers Documentation
+Villarista Robotics Club- ThorRobot
+Frederick Ortega
+-Robot mobilty: Round 1 programming
+
+-Directional Motor: (D): direction in degrees of the movement. 
+
+-Motion motor (A): Uniform motion of the robot. 
+
+-General description: 
+The robot is made up of two motors, motor A will move to the indicated direction in rotations and 
+will stop completely at the desired point to adjust the direction it will take when turning, 
+when this condition is met motor B in charge of constant movement will start. will turn on, 
+causing the robot to move until it makes 3 laps around the track.
+Photos of the vehicle in all 6 angles.
+
+
+
+
+
+
+Team photo:
+
+Antonomous vehicle driving: 
+
+Objective as future engineers:
+Participating in this tournament and being recognized as future engineers represents a significant
+milestone in our professional and personal development. As a "ThorRobot" team, our aspiration is
+much more than simply competing; We wish to use this experience as a platform to hone our skills 
+in designing, building and programming robotic systems. Programming is not just a tool for us, but
+a way to approach and solve complex problems in a creative and innovative way.
+Since the beginning of this project, we have been immersed in a constant learning process. Every 
+challenge we face provides us with an opportunity to apply and expand our engineering
+knowledge, as we seek to exceed the expectations and limitations placed on us. Our passion for
+technology and its potential to transform the world drives us to go beyond traditional capabilities
+and explore new frontiers in the field of robotics.
+Our goal is not simply to meet tournament requirements, but to demonstrate a level of
+competence and creativity that reflects our commitment and dedication.
+Throughout this journey, we have spent countless hours researching, designing and programming 
+a robot that not only meets the tournament criteria, but also represents our vision and aspirations 
+as engineers. We have learned to face unexpected challenges, adapt our strategies and refine our
+processes.
+
+
+
